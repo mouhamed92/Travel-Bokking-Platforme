@@ -12,6 +12,7 @@
         <module name="discovry" />
         <module name="destination-service" />
         <module name="gateway" />
+        <module name="reservation-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +25,7 @@
       <module name="destination-service" options="-parameters" />
       <module name="discovry" options="-parameters" />
       <module name="gateway" options="-parameters" />
+      <module name="reservation-service" options="-parameters" />
       <module name="trip-service" options="-parameters" />
       <module name="user-service" options="-parameters" />
     </option>
